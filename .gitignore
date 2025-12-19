@@ -1,1 +1,4 @@
-/Language Detection.csv
+/artifacts/label_encoder.pkl
+/artifacts/language_model.keras
+/artifacts/vectorizer.pkl
+.venv
